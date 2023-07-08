@@ -33,5 +33,5 @@ def reverse_string(string):
 
     """
     if not isinstance(string, str):
-        raise TypeError('Input must be a string')
+        raise TypeError("Input must be a string")
     return string[::-1]

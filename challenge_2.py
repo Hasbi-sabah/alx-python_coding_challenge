@@ -1,6 +1,8 @@
 """
 This module counts the vowels in a string
 """
+
+
 def count_vowels(s=""):
     """
     Function count_vowels returns n of vowels in a given string
